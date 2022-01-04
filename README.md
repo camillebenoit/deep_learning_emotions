@@ -6,3 +6,5 @@ The goal was to be able to recognize emotions between six basics emotions (happi
 To do so, we used landmarks facial attributes as inputs.
 
 We did this project with google collab.
+
+The data we used is fer2013 weel-known csv.
